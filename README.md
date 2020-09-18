@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied  Mathematics and Computer Science  at Jomo Kenyatta University of Agriculture and Technology
 - 💼 &nbsp; Working as a Software Developer in the world of Freelancing.
 - 🌱 &nbsp; Learning more about Web Development, Machine Learning, Data Science, Cloud Architecture, Systems Design and Artificial Intelligence.
@@ -23,6 +23,9 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ambrose-mbayi-6a2882120">LinkedIn</a>
+
+
+<a href="https://www.linkedin.com/in/ambrose-mbayi-6a2882120"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ambrose%20Mbayi-blue"></a>
 
 </p>
 
