@@ -11,9 +11,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript-Reactjs |  Node.js 
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript-Reactjs |  Nodejs 
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git 
 - 🖥 &nbsp; CorelDraw | Photoshop | Adobe Premiere| Adobe XD 
 
 
@@ -29,4 +29,4 @@
 
 </p>
 
-⭐️ From [AmbyMbayi](https://github.com/AmbyMbayi/)
+⭐️ 🌐 &nbsp; From [AmbyMbayi](https://github.com/AmbyMbayi/)
