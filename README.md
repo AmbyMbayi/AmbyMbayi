@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studied  Mathematics and Computer Science  at Jomo Kenyatta University of Agriculture and Technology
 - 💼 &nbsp; Working as a Software Developer in the world of Freelancing.
 - 🌱 &nbsp; Learning more about Web Development, Machine Learning, Data Science, Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Love neat Designs, More into Graphic Design, Music-Guitar and video post-production hobbies/side hustles.
+- ✍️ &nbsp; Love neat Designs, More into Graphic Design | UX-UI Designs, Music-Guitar and video post-production hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
