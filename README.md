@@ -11,8 +11,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript-Reactjs |  Nodejs 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript-Reactjs 
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; CorelDraw | Photoshop | Adobe Premiere| Adobe XD 
 
@@ -29,6 +29,6 @@
 
 </p>
 
-⭐️ 🌐 &nbsp; From [AmbyMbayi](https://github.com/AmbyMbayi/)
+⭐️ 🌐 &nbsp; From [AmbyMbayi](https://ambymbayi.github.io/portfolio/)
 
 <h2>🛠 HAMONIK STARTUP</h2>
